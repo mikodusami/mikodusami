@@ -22,7 +22,6 @@
 <tr>
   
 <td width="50%" valign="top">
-
   <p>
     <img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
@@ -31,20 +30,6 @@
     <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" />
   </p>
-<pre lang="cpp">
-    
-struct Miko {
-  bool is_growing = true;
-  int challenge_day = 2;
-  
-  void iterate() {
-    while (is_growing) {
-      study_cpp();
-      if (challenge_day++ == 90) break; 
-    }
-  }
-};
-</pre>
   </td>
 </tr>
 </table>
