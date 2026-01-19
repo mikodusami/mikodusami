@@ -37,6 +37,3 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900px" height="2px" />
 <br/>
-<br/>
-<img src="https://i.sstatic.net/vTsEq.gif" width="500" style="filter: grayscale(100%) brightness(0.8);" />
-</div>
