@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=600&lines=MIKO._;MICHAEL-ANDRE+ODUSAMI.;EAT+%2F%2F+SLEEP+%2F%2F+LEARN;THE+FUTURE+SELF+IS+WHO+YOU+ARE+TODAY." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=600&lines=MIKO._;MICHAEL-ANDRE+ODUSAMI.;EAT+%2F%2F+SLEEP+%2F%2F+LEARN;I+WILL+NOT+FAIL." alt="Typing SVG" />
 </a>
 </div>
 
